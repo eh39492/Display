@@ -14,6 +14,8 @@ Cherry MX,1,Aliexpress,$1.09,$1.09,https://www.aliexpress.us/item/32568088120997
 PCB,1,JLCpcb,$4.00,$4.00,https://jlcpcb.com/
 
 7 segment display,1,Amazon,$8.59,$8.59,https://www.amazon.com/gp/product/B0C5MQQ7DM/ref=ox_sc_act_title_1?smid=AF9CPILHGHOMP&psc=1
+
+
 Estimated total shipping,1,,,$9.00,
 
 
